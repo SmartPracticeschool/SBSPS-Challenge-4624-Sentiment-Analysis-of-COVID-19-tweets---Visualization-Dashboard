@@ -39,7 +39,8 @@ Python version 3
 ### Implementation
 
 
-For the implementation of the project , open jupyter notebook , go to to the SmartPracticeschool directory and open the .ipynb file
+For the implementation of the project , open jupyter notebook , go to to the "SBSPS-Challenge-4624-Sentiment-Analysis-of-COVID-19-tweets---Visualization-Dashboard
+" directory and open the .ipynb file
 
 ```
 jupyter notebook
