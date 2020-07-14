@@ -22,9 +22,9 @@ Examples:
  
  ### Datasets 
  
- * 
- * 
- * 
+ * "CoronaVirusTweets.csv" is the main dataset used in the project.
+ * "data_after_analysis.csv" is the dataset obtained after the analysis of the dataset "CoronaVirusTweets.csv".
+ 
 
 
 ## Getting Started
@@ -39,7 +39,7 @@ Python version 3
 ### Implementation
 
 
-For the implementation of the project , open jupyter notebook , go to to the BIProject directory and open the .ipynb file
+For the implementation of the project , open jupyter notebook , go to to the SmartPracticeschool directory and open the .ipynb file
 
 ```
 jupyter notebook
