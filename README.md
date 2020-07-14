@@ -12,7 +12,7 @@ Examples:
 - 'I love the rain!' Subjectivity = 1
 
 
-![alt text](https://github.com/xxz-jessica/COVID-19_UCD_Challenge/blob/master/framework.JPG)
+![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-4624-Sentiment-Analysis-of-COVID-19-tweets---Visualization-Dashboard/blob/master/covid.jpeg)
 
 
  ### Project Implementation 
